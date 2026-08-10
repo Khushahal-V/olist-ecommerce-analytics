@@ -58,5 +58,6 @@ The dashboard shows delivery speed correlates with review score, but I wanted to
 README.md     this file
 ```
 ## Power BI Link : https://drive.google.com/file/d/11YJFMKPAly7mneSS00NRFHGfznL6vRMk/view?usp=sharing
+## Dataset Link : https://drive.google.com/drive/folders/1IoUsCSFr6yplzj2xRz_bvHHRBVqWX3SQ?usp=sharing
 ## Limitations
 The A/B test here is observational, not a randomized experiment — delivery speed wasn't randomly assigned, so there could be confounders (location, order value, category) I haven't controlled for. Worth keeping in mind before treating "slow delivery causes low reviews" as more than a strong association.
