@@ -37,7 +37,7 @@ The dashboard shows delivery speed correlates with review score, but I wanted to
 
 **Loyal customers (4+ orders) spend about 5x more on average** (~R$780) than one-time buyers (~R$160). It's a tiny segment, but clearly worth more attention than it's getting.
 
-**Delivery speed genuinely affects satisfaction, but not evenly.** Average review scores go 4.41 → 4.29 → 3.65 across fast/medium/slow delivery. All the pairwise differences are statistically significant (p < 0.001), but the effect sizes tell the real story — fast vs. medium delivery barely matters (Cohen's d = 0.11, negligible), while fast vs. slow is a real, medium-to-large gap (d = 0.59). So the actual lever here is fixing the slowest deliveries, not shaving a day or two off ones that are already reasonable.
+**Delivery speed genuinely affects satisfaction, but not evenly.** Average review scores go 4.41 → 4.29 → 3.65 [total drop = 0.76] across fast/medium/slow delivery. All the pairwise differences are statistically significant (p < 0.001), but the effect sizes tell the real story — fast vs. medium delivery barely matters (Cohen's d = 0.11, negligible), while fast vs. slow is a real, medium-to-large gap (d = 0.59). So the actual lever here is fixing the slowest deliveries, not shaving a day or two off ones that are already reasonable.
 
 **São Paulo alone accounts for way more orders than any other state** — Rio de Janeiro and Minas Gerais are a distant second and third. Good for now, but a lot of concentration risk if anything goes wrong there.
 
